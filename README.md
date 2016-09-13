@@ -1,3 +1,5 @@
+依赖的urllib版本与wechat不一致，导致wechat登陆发生错误
+
 # Qiniu Resource Storage SDK for Node.js
 
 [![@qiniu on weibo](http://img.shields.io/badge/weibo-%40qiniutek-blue.svg)](http://weibo.com/qiniutek)
